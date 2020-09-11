@@ -18,4 +18,5 @@
 15. git push heroku master 
 
 # heroku 連接畫面 新聞app
-![](./demo_sample_images/heroku.png)
+
+![](./demo_images/heroku.png)
